@@ -63,4 +63,4 @@ Nenhuma dependência externa é necessária.
 
 🧑‍💻 Programador: Lucas Macedo
 
-GitHub • Instagram
+GitHub • https://github.com/LucasMacedoDev
