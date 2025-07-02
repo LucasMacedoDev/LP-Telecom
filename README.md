@@ -47,9 +47,14 @@ Trabalho-EDP/
 │       ├── home.css
 │       └── styles.css
 
+🌐 Veja online: 
+
+https://lucasmacedodev.github.io/Trabalho-EDP/
+
+
 ▶️ Como Executar
 
-Clone o repositório: git clone https://github.com/LucasMacedoDev/Trabalho-EDP.git
+Clone o repositório: git clone https://github.com/LucasMacedoDev/LP-Telecom.git
 
 Abra o arquivo index.html no navegador.
 
